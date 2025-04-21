@@ -11,5 +11,6 @@
   - C
   - C++
   - Python (a real novice)
+  - Rust (A REAL NOVICE)
 - Linux 🐧
   - Ubuntu (getting to know about it)
