@@ -5,12 +5,12 @@
 -->
 
 ## Interested in...
-- Code editor
+- Platforms and Tools
   - VIM
+  - Ubuntu (getting to know about it)
+  - Arduino Uno (just starting)
 - Languages
   - C
   - C++
   - Python (a real novice)
   - Rust (A REAL NOVICE)
-- Linux 🐧
-  - Ubuntu (getting to know about it)
