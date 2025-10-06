@@ -20,7 +20,7 @@
 
 ### Languages
 - English (I love British accent)
-- C (for system programming)
+- C (my favourite programming language)
 - C++ (to use C with classes)
 - Python (a real novice -- for writing simple scripts)
 - Rust (A REAL NOVICE -- getting to know about it)
