@@ -15,7 +15,7 @@
 ### Platforms and Tools
 - Vim (NOT NeoVim!)
 - Ubuntu (getting to know about it)
-- Arduino Uno (just starting)
+- Arduino (just starting)
 - macOS (my favourite OS for PC)
 
 ### Languages
