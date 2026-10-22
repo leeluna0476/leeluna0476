@@ -7,6 +7,7 @@
 ## My Interests
 ### Topics
 - Bitmap
+- Digital Circuit Design
 - Cybersecurity / Pwnable
 - System Programming
 - English Grammar
